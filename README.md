@@ -9,6 +9,8 @@ b) Sorting the characters in the file and find out the unique characters count i
 c) Split the words based on our choice in the file and printing the length. 
 d) Converting the characters to upper case, lower case.
 
+I have faced an issue with creating two subfolders in the Github (Source, Documnets). So, I had placed all the documents in the main branch itself.
+
 I have attached all the screenshots that show the code snippets and output.
 
 Google colab: https://colab.research.google.com/drive/15hKsvtbQCNL3mGz70tomcZkfYZzYDnbC#scrollTo=Z2dUvzRSBK1Y
