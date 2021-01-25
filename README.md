@@ -17,3 +17,4 @@ Google colab: https://colab.research.google.com/drive/15hKsvtbQCNL3mGz70tomcZkfY
 
 Github: https://github.com/Nithin46/KDM_ICP1
 
+Video: https://youtu.be/_BjGVL5jNIg
