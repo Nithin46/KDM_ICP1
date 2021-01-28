@@ -9,7 +9,7 @@ b) Sorting the characters in the file and find out the unique characters count i
 c) Split the words based on our choice in the file and printing the length. 
 d) Converting the characters to upper case, lower case.
 
-I have faced an issue with creating two subfolders in the Github (Source, Documnets). So, I had placed all the documents in the main branch itself.
+I had faced an issue with creating two subfolders in Github (Source, Documents). After the one to one discussion on Tuesday's class, I have got a solution and created two folders.
 
 I have attached all the screenshots that show the code snippets and output.
 
