@@ -10,11 +10,3 @@ c) Split the words based on our choice in the file and printing the length.
 d) Converting the characters to upper case, lower case.
 
 I had faced an issue with creating two subfolders in Github (Source, Documents). After the one to one discussion on Tuesday's class, I have got a solution and created two folders.
-
-I have attached all the screenshots that show the code snippets and output.
-
-Google colab: https://colab.research.google.com/drive/15hKsvtbQCNL3mGz70tomcZkfYZzYDnbC#scrollTo=Z2dUvzRSBK1Y
-
-Github: https://github.com/Nithin46/KDM_ICP1
-
-Video: https://youtu.be/_BjGVL5jNIg
